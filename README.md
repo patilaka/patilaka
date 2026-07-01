@@ -5,7 +5,6 @@
 
 ![Profile Views](https://img.shields.io/badge/Profile_Views-14229-0e75b6?style=flat-square)
 
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patilaka20062141236am@gmail.com) 
 
