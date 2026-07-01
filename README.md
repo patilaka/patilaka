@@ -1,6 +1,5 @@
 # ![GitHub Stats](http://itshivam.in/api/github-profile?username=patilaka&data=followers,repositories,stars,commits,trophies&theme=blue) 
 
-
 # 💫 About Me:
 🔭 I’m currently working on Improving Myself<br>👯 I’m looking to collaborate for my projects<br>🤝 I’m looking for help for Hackathons<br>🌱 I’m currently learning Deep learning<br>💬 Ask me about AI, ML, DL, LLM, etcs<br>⚡ Fun fact : I need  a Friend
 
