@@ -27,6 +27,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=patilaka&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![Profile Views](https://img.shields.io/badge/Profile_Views-0e75b6?style=flat-square)
 
 
 ---
