@@ -3,7 +3,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Improving Myself<br>👯 I’m looking to collaborate for my projects<br>🤝 I’m looking for help for Hackathons<br>🌱 I’m currently learning Deep learning<br>💬 Ask me about AI, ML, DL, LLM, etcs<br>⚡ Fun fact : I need  a Friend
 
-![Profile Views](https://img.shields.io/badge/Profile_Views-27894-0e75b6?style=flat-square)
+![Profile Views](https://img.shields.io/badge/Profile_Views-29254-0e75b6?style=flat-square)
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patilaka20062141236am@gmail.com) 
 
