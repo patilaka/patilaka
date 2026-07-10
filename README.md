@@ -1,7 +1,7 @@
 # ![GitHub Stats](http://itshivam.in/api/github-profile?username=patilaka&data=followers,repositories,stars,commits,trophies&theme=blue) 
 
 # 💫 About Me:
-🔭 I’m currently working on Improving Myself<br>👯 I’m looking to collaborate for my projects<br>🤝 I’m looking for teammates for Hackathons<br>🌱 I’m currently learning Deep learning<br>💬 Ask me about AI, ML, DL, LLM, etcs<br>⚡ Fun fact : I got my old Friend back
+🔭 I’m currently working on Improving Myself<br>👯 I’m looking to collaborate for my projects<br>🤝 I’m looking for teammates for Hackathons<br>🌱 I’m currently learning Deep learning<br>💬 Ask me about AI, ML, DL, LLM, NLP, PC Buildings, Mac, Android,  etcs<br>⚡ Fun fact : I got my old Friend back
 
 ![Profile Views](https://img.shields.io/badge/Profile_Views-34971-0e75b6?style=flat-square)
 
