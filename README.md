@@ -7,6 +7,7 @@
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patilaka20062141236am@gmail.com) 
 
+
 # Also check my Friends Profile
 <a href="https://github.com/ShreyasP10" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/137516112?v=4" width="50" height="50" alt="ShreyasP10"></a>
 <a href="https://github.com/mahajanatharva1042" target="_blank" rel="noopener noreferrer"><img src="https://github.com/mahajanatharva1042.png" width="50" height="50" alt="mahajanatharva1042"></a>
