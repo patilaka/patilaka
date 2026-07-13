@@ -3,7 +3,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Improving Myself<br>👯 I’m looking to collaborate for my projects<br>🤝 I’m looking for teammates for Hackathons<br>🌱 I’m currently learning Deep learning<br>💬 Ask me about AI, ML, DL, LLM, NLP, PC Buildings, Mac, Android,  etcs<br>⚡ Fun fact : I got my old Friend back
 
-![Profile Views](https://img.shields.io/badge/Profile_Views-44912-0e75b6?style=flat-square)
+![Profile Views](https://img.shields.io/badge/Profile_Views-48212-0e75b6?style=flat-square)
 
 
 # Also check my Friends Profile
@@ -36,9 +36,6 @@
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=patilaka&icon=0&color=0)](https://visitcount.itsvg.in)
-![Profile Views](https://komarev.com/ghpvc/?username=patilaka&color=0e75b6&style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=patilaka)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
