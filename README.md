@@ -27,7 +27,7 @@
 ![Trophies](https://camo.githubusercontent.com/eab37df3cef2a8cb1c19d2200f7c2c4f16d0b2bcdf1ca134b61c86ff5085c9ee/68747470733a2f2f6769746875622d74726f70686965732e76657263656c2e6170702f3f757365726e616d653d53687265796173503130267468656d653d7261646963616c)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=patilaka&limit=5&theme=dark&combine_all_yearly_contributions=true)
