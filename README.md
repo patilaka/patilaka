@@ -22,9 +22,15 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=patilaka&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patilaka&theme=tokyonight" /><img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patilaka&theme=tokyonight" /><img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=patilaka&theme=tokyonight" /><img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patilaka&theme=tokyonight&utcOffset=5.5" />  
   <img src="https://github-contributor-stats.vercel.app/api?username=patilaka&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" /><img src="https://github-profile-trophy.vercel.app/?username=patilaka&theme=algolia&no-frame=true&row=2&column=4" />
-
+  <!---![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShreyasP10&theme=github-dark)--->
+  ![Repositories per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShreyasP10&theme=tokyonight)
+  ![Most Used Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyasP10&theme=tokyonight)
+  ![GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShreyasP10&theme=tokyonight)
+  ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShreyasP10&theme=tokyonight&utcOffset=5.5)
+  
 ## 🏆 GitHub Trophies
 ![Trophies](https://camo.githubusercontent.com/eab37df3cef2a8cb1c19d2200f7c2c4f16d0b2bcdf1ca134b61c86ff5085c9ee/68747470733a2f2f6769746875622d74726f70686965732e76657263656c2e6170702f3f757365726e616d653d53687265796173503130267468656d653d7261646963616c)
+  ![GitHub Trophies](https://github-trophies.vercel.app/?username=ShreyasP10&theme=radical)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
@@ -36,8 +42,4 @@
 
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+\
