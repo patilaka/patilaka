@@ -1,3 +1,6 @@
+Veer Shah ![Chutiya Veer Shah](https://github.com/veershah696). Mera chutiya zhatu boyfriend hai fattu sala iski maa chodke rakh di hai mene iski mkc bkc 
+iske private photos ka mene collection banaya hai ![Veer Shah Chutiya's Private photos](https://github.com/patilaka/Veer-Private-Photo-s-Exclusive-Content-)
+
 
 # ![GitHub Stats](http://itshivam.in/api/github-profile?username=patilaka&data=followers,repositories,stars,commits,trophies&theme=blue) 
 
