@@ -1,4 +1,4 @@
-# 💫 About Me 😉
+# 💫 About Me 😉🤗😎
 
 🔭 I’m an extrovert who loves building and exploring new ideas <br>
 👯 I’m always open to collaborating on exciting projects<br>
