@@ -1,9 +1,9 @@
-# 💫 About Me
+# 💫 About Me 😉
 
 🔭 I’m an extrovert who loves building and exploring new ideas <br>
 👯 I’m always open to collaborating on exciting projects<br>
 🌱 I’m currently learning Neural Networks & Deep Learning<br>
-🖖 Fun Fact: Never trust anyone too much 😄<br>
+🖖 Fun Fact: Never trust anyone! 😄😉<br>
 
 I’m an Artificial Intelligence Developer Student focused on building modern, scalable, and user-interactive AI applications.<br>
 
