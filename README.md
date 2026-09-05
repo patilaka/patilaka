@@ -1,6 +1,20 @@
+# 💫 About Me
 
-# 💫 About Me:
-🔭 I’m Extrovert<br>👯 I’m looking to collaborate to any projects<br>🌱 I’m currently learning Neural Networks<br>🖖 Fun fact : Never Trust on Anyone
+🔭 I’m an extrovert who loves building and exploring new ideas <br>
+👯 I’m always open to collaborating on exciting projects<br>
+🌱 I’m currently learning Neural Networks & Deep Learning<br>
+🖖 Fun Fact: Never trust anyone too much 😄<br>
+
+I’m an Artificial Intelligence Developer Student focused on building modern, scalable, and user-interactive AI applications.<br>
+
+🤖 AI Development — Building intelligent, scalable & user-focused AI applications<br>
+🧠 Neural Networks — Exploring deep learning, model architectures & AI concepts<br>
+🐍 Python & AI — Developing practical solutions with Python and machine learning<br>
+🔬 Machine Learning — Learning algorithms, model training & real-world AI applications<br>
+💡 Generative AI — Exploring LLMs, AI tools & intelligent application development<br>
+⚡ AI + Web — Integrating AI capabilities into modern, interactive web applications<br>
+🚀 Currently Building — AI-powered projects, experiments & real-world applications<br>
+🤝 Open To — Collaborating on AI, ML, web & open-source projects<br>
 
 ![Profile Views](https://img.shields.io/badge/Profile_Views-201721-0e75b6?style=flat-square)
 
