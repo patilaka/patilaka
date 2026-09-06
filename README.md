@@ -11,10 +11,12 @@ I’m an Artificial Intelligence Developer Student focused on building modern, s
 🧠 Neural Networks — Exploring deep learning, model architectures & AI concepts<br>
 🐍 Python & AI — Developing practical solutions with Python and machine learning<br>
 🔬 Machine Learning — Learning algorithms, model training & real-world AI applications<br>
+🎨 UI/UX — Turning designs into polished, pixel-perfect digital experiences<br>
 💡 Generative AI — Exploring LLMs, AI tools & intelligent application development<br>
 ⚡ AI + Web — Integrating AI capabilities into modern, interactive web applications<br>
 🚀 Currently Building — AI-powered projects, experiments & real-world applications<br>
 🤝 Open To — Collaborating on AI, ML, web & open-source projects<br>
+🎓 Continuous Learning - Constantly Exploring new technologies, frameworks and development practices.
 
 ![Profile Views](https://img.shields.io/badge/Profile_Views-201721-0e75b6?style=flat-square)
 
