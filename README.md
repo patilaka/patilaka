@@ -1,4 +1,4 @@
-# 💫 About Me 😉😎🫵👇✊
+# 💫 About Me 😉😎🫵👇
 
 🔭 I’m an extrovert who loves building and exploring new ideas <br>
 👯 I’m always open to collaborating on exciting projects<br>
@@ -18,7 +18,7 @@ I’m an Artificial Intelligence Developer Student focused on building modern, s
 🤝 Open To — Collaborating on AI, ML, web & open-source projects<br>
 🎓 Continuous Learning - Constantly Exploring new technologies, frameworks and development practices.
 
-![Profile Views](https://img.shields.io/badge/Profile_Views-332691-0e75b6?style=flat-square)
+![Profile Views](https://img.shields.io/badge/Profile_Views-379192-0e75b6?style=flat-square)
 
 
 # 💻 Tech Stack:
